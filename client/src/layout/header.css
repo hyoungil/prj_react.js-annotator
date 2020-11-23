@@ -1,0 +1,28 @@
+.top_menu{
+    width:100%;
+    /* height: 1080px; */
+    /* display: flex;
+    flex-direction: row-reverse; */
+
+}
+.top_menu .header{
+    width: 100%;
+    height: 80px;
+    background: #FCFCFC 0% 0% no-repeat padding-box;
+    display: flex;
+    line-height: 80px;
+    align-items: center;
+    border: 1px solid #EBEDF2;
+}
+.top_menu .header img{
+    /* width: 150px; */
+    height: 60px;
+    margin: 0 20px;
+}
+.top_menu .header p{
+    font-size: 40px;
+    font-weight: bold;
+    margin-left: 66px;
+
+    /* color: #fff; */
+}
